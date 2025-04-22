@@ -1,0 +1,253 @@
+2025-04-22 10:41:44,315 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 10:41:45,225 - INFO - 找到 3 个空间
+2025-04-22 10:41:45,225 - INFO - 将导出 2/3 个空间
+2025-04-22 10:41:45,226 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 10:41:45,226 - INFO - 开始导出空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 10:41:45,585 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 10:41:45,878 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 10:41:47,030 - ERROR - 导出空间 My first space (MFS) 失败: Encountered error during space export from space MFS
+2025-04-22 10:41:47,091 - INFO - Space qDhZ1g1BdMnd export status: 
+2025-04-22 10:42:17,422 - INFO - Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/86d1500e-f85d-4240-bbd6-6aa8f170bd62">here</a>.
+2025-04-22 10:42:18,052 - ERROR - 导出空间 测试空间 (qDhZ1g1BdMnd) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/86d1500e-f85d-4240-bbd6-6aa8f170bd62
+2025-04-22 10:42:18,057 - INFO - 导出完成! 成功: 0, 失败: 2
+2025-04-22 10:42:18,057 - ERROR - 导出失败的空间: MFS, qDhZ1g1BdMnd
+2025-04-22 10:43:31,718 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 10:43:32,461 - INFO - 找到 3 个空间
+2025-04-22 10:43:32,461 - INFO - 将导出 2/3 个空间
+2025-04-22 10:43:32,461 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 10:43:32,462 - INFO - 开始导出空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 10:43:32,788 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 10:43:33,273 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 10:43:34,363 - INFO - Space MFS export status: 
+2025-04-22 10:43:34,394 - ERROR - 导出空间 测试空间 (qDhZ1g1BdMnd) 失败: Encountered error during space export from space qDhZ1g1BdMnd
+2025-04-22 10:44:04,754 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/de084dd9-e405-4152-91b2-20d064ecd8fb">here</a>.
+2025-04-22 10:44:05,357 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/de084dd9-e405-4152-91b2-20d064ecd8fb
+2025-04-22 10:44:05,365 - INFO - 导出完成! 成功: 0, 失败: 2
+2025-04-22 10:44:05,365 - ERROR - 导出失败的空间: qDhZ1g1BdMnd, MFS
+2025-04-22 10:49:27,944 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 10:49:28,727 - INFO - 找到 3 个空间
+2025-04-22 10:49:28,727 - INFO - 将导出 2/3 个空间
+2025-04-22 10:49:28,727 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 10:49:28,727 - INFO - 开始导出空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 10:49:29,227 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 10:49:29,407 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 10:49:30,422 - ERROR - 导出空间 测试空间 (qDhZ1g1BdMnd) 失败: Encountered error during space export from space qDhZ1g1BdMnd
+2025-04-22 10:49:30,720 - INFO - Space MFS export status: 
+2025-04-22 10:50:01,035 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/558ddebc-4e6c-4700-8df3-1e6380976ab7">here</a>.
+2025-04-22 10:50:01,698 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/558ddebc-4e6c-4700-8df3-1e6380976ab7
+2025-04-22 10:50:01,703 - INFO - 导出完成! 成功: 0, 失败: 2
+2025-04-22 10:50:01,704 - ERROR - 导出失败的空间: qDhZ1g1BdMnd, MFS
+2025-04-22 10:54:24,314 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 10:54:25,156 - INFO - 找到 3 个空间
+2025-04-22 10:54:25,156 - INFO - 将导出 2/3 个空间
+2025-04-22 10:54:25,157 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 10:54:25,157 - INFO - 开始导出空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 10:54:25,571 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 10:54:25,924 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 10:54:27,050 - INFO - Space qDhZ1g1BdMnd export status: 
+2025-04-22 10:54:27,143 - ERROR - 导出空间 My first space (MFS) 失败: Encountered error during space export from space MFS
+2025-04-22 10:54:57,365 - INFO - Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/f7f94b69-ee52-43be-9686-fef5dc867a47">here</a>.
+2025-04-22 10:54:57,916 - ERROR - 导出空间 测试空间 (qDhZ1g1BdMnd) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/f7f94b69-ee52-43be-9686-fef5dc867a47
+2025-04-22 10:54:57,925 - INFO - 导出完成! 成功: 0, 失败: 2
+2025-04-22 10:54:57,926 - ERROR - 导出失败的空间: MFS, qDhZ1g1BdMnd
+2025-04-22 10:59:15,205 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 10:59:15,958 - INFO - 找到 3 个空间
+2025-04-22 10:59:15,958 - INFO - 将导出 2/3 个空间
+2025-04-22 10:59:15,959 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 10:59:15,959 - INFO - 开始导出空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 10:59:16,300 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 10:59:16,793 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 10:59:17,732 - INFO - Space qDhZ1g1BdMnd export status: 
+2025-04-22 10:59:17,933 - ERROR - 导出空间 My first space (MFS) 失败: Encountered error during space export from space MFS
+2025-04-22 10:59:48,045 - INFO - Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/52debcdb-c6c9-4dfe-aebd-291d01355897">here</a>.
+2025-04-22 10:59:48,048 - ERROR - confluence_export/qDhZ1g1BdMnd_测试空间.html.zip
+2025-04-22 10:59:48,617 - INFO - 成功导出空间: 测试空间 (qDhZ1g1BdMnd) 到 confluence_export/qDhZ1g1BdMnd_测试空间.html.zip
+2025-04-22 10:59:48,618 - INFO - 导出完成! 成功: 1, 失败: 1
+2025-04-22 10:59:48,618 - ERROR - 导出失败的空间: MFS
+2025-04-22 11:00:13,714 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:00:14,616 - INFO - 找到 3 个空间
+2025-04-22 11:00:14,616 - INFO - 将导出 2/3 个空间
+2025-04-22 11:00:14,617 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 11:00:15,091 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:00:16,458 - INFO - Space MFS export status: 
+2025-04-22 11:00:46,895 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/e6721d1a-0183-4f41-a793-704a3c8a5d74">here</a>.
+2025-04-22 11:00:46,901 - ERROR - confluence_export/MFS_My first space.html.zip
+2025-04-22 11:00:47,430 - INFO - 成功导出空间: My first space (MFS) 到 confluence_export/MFS_My first space.html.zip
+2025-04-22 11:00:47,431 - INFO - 从缓存中获取空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 11:00:47,433 - INFO - 导出完成! 成功: 2, 失败: 0
+2025-04-22 11:04:40,532 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:04:41,441 - INFO - 找到 3 个空间
+2025-04-22 11:04:41,441 - INFO - 将导出 2/3 个空间
+2025-04-22 11:04:41,441 - INFO - 使用单线程模式导出
+2025-04-22 11:04:41,441 - INFO - 正在处理 1/2: MFS
+2025-04-22 11:04:41,442 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 11:04:41,901 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:04:43,302 - INFO - Space MFS export status: 
+2025-04-22 11:05:13,619 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/125c2d05-a86c-4d38-b1ac-84528621ae20">here</a>.
+2025-04-22 11:05:14,127 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/125c2d05-a86c-4d38-b1ac-84528621ae20
+2025-04-22 11:05:14,128 - INFO - 等待 5 秒后重试... (尝试 1/3)
+2025-04-22 11:05:19,584 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:05:20,719 - INFO - Space MFS export status: 
+2025-04-22 11:05:51,031 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/8c71daea-a993-486a-966c-9efbabe12b99">here</a>.
+2025-04-22 11:05:51,650 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/8c71daea-a993-486a-966c-9efbabe12b99
+2025-04-22 11:05:51,650 - INFO - 等待 10 秒后重试... (尝试 2/3)
+2025-04-22 11:06:02,022 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:06:03,073 - INFO - Space MFS export status: 
+2025-04-22 11:06:17,279 - INFO - 用户中断，退出程序
+2025-04-22 11:07:37,674 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:07:38,389 - INFO - 找到 3 个空间
+2025-04-22 11:07:38,389 - INFO - 将导出 2/3 个空间
+2025-04-22 11:07:38,390 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 11:07:38,764 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:07:40,343 - INFO - Space MFS export status: 
+2025-04-22 11:08:10,671 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/77000c87-de75-421e-8a03-6ff8fa80f261">here</a>.
+2025-04-22 11:08:11,208 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/77000c87-de75-421e-8a03-6ff8fa80f261
+2025-04-22 11:08:11,209 - INFO - 等待 5 秒后重试... (尝试 1/3)
+2025-04-22 11:08:16,727 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:08:17,872 - INFO - Space MFS export status: 
+2025-04-22 11:08:48,210 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/9aa76b87-4323-422d-8da8-460b5aa6e711">here</a>.
+2025-04-22 11:08:48,927 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/9aa76b87-4323-422d-8da8-460b5aa6e711
+2025-04-22 11:08:48,927 - INFO - 等待 10 秒后重试... (尝试 2/3)
+2025-04-22 11:08:59,427 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:09:00,541 - INFO - Space MFS export status: 
+2025-04-22 11:09:30,865 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/ae6ff374-1b2c-4a18-be19-5891222f3915">here</a>.
+2025-04-22 11:09:31,553 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/ae6ff374-1b2c-4a18-be19-5891222f3915
+2025-04-22 11:09:31,557 - INFO - 开始导出空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 11:09:32,035 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 11:09:33,083 - INFO - Space qDhZ1g1BdMnd export status: 
+2025-04-22 11:10:03,378 - INFO - Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/f6016bef-8f91-4cf1-9697-60d65768fc2c">here</a>.
+2025-04-22 11:10:04,110 - ERROR - 导出空间 测试空间 (qDhZ1g1BdMnd) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/f6016bef-8f91-4cf1-9697-60d65768fc2c
+2025-04-22 11:10:04,111 - INFO - 等待 5 秒后重试... (尝试 1/3)
+2025-04-22 11:10:09,604 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 11:10:11,121 - INFO - Space qDhZ1g1BdMnd export status: 
+2025-04-22 11:10:41,555 - INFO - Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/e7d5675b-7328-4d08-bfe6-03aabf5e990d">here</a>.
+2025-04-22 11:10:42,249 - ERROR - 导出空间 测试空间 (qDhZ1g1BdMnd) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/e7d5675b-7328-4d08-bfe6-03aabf5e990d
+2025-04-22 11:10:42,249 - INFO - 等待 10 秒后重试... (尝试 2/3)
+2025-04-22 11:10:52,626 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 11:10:53,739 - INFO - Space qDhZ1g1BdMnd export status: 
+2025-04-22 11:11:24,063 - INFO - Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/952b0872-fb54-4737-a417-e509873bf991">here</a>.
+2025-04-22 11:11:24,666 - ERROR - 导出空间 测试空间 (qDhZ1g1BdMnd) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/952b0872-fb54-4737-a417-e509873bf991
+2025-04-22 11:11:24,676 - INFO - 导出完成! 成功: 0, 失败: 2
+2025-04-22 11:11:24,676 - ERROR - 导出失败的空间: MFS, qDhZ1g1BdMnd
+2025-04-22 11:11:44,223 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:11:44,995 - INFO - 找到 3 个空间
+2025-04-22 11:11:44,996 - INFO - 将导出 2/3 个空间
+2025-04-22 11:11:44,996 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 11:11:45,417 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:11:46,810 - INFO - Space MFS export status: 
+2025-04-22 11:12:17,128 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/c00591c5-8c0b-474d-bbe8-9fe93a9b8337">here</a>.
+2025-04-22 11:12:17,763 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/c00591c5-8c0b-474d-bbe8-9fe93a9b8337
+2025-04-22 11:12:17,763 - INFO - 等待 5 秒后重试... (尝试 1/3)
+2025-04-22 11:12:23,143 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:12:24,366 - INFO - Space MFS export status: 
+2025-04-22 11:12:54,692 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/5322866c-107f-49d3-af3b-0a90ea17f74a">here</a>.
+2025-04-22 11:12:55,285 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/5322866c-107f-49d3-af3b-0a90ea17f74a
+2025-04-22 11:12:55,285 - INFO - 等待 10 秒后重试... (尝试 2/3)
+2025-04-22 11:13:05,672 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:13:06,771 - INFO - Space MFS export status: 
+2025-04-22 11:13:12,157 - INFO - 用户中断，退出程序
+2025-04-22 11:13:14,443 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:13:15,088 - INFO - 找到 3 个空间
+2025-04-22 11:13:15,089 - INFO - 将导出 2/3 个空间
+2025-04-22 11:13:15,089 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 11:13:15,463 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:13:16,741 - INFO - Space MFS export status: 
+2025-04-22 11:13:47,061 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/37566b6e-46b0-4c3e-a398-62df51c3941b">here</a>.
+2025-04-22 11:13:47,699 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/37566b6e-46b0-4c3e-a398-62df51c3941b
+2025-04-22 11:13:47,699 - INFO - 等待 5 秒后重试... (尝试 1/3)
+2025-04-22 11:13:53,145 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:13:54,243 - INFO - Space MFS export status: 
+2025-04-22 11:14:24,582 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/f92834d9-e599-4c31-9144-5a991244216b">here</a>.
+2025-04-22 11:14:25,282 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/f92834d9-e599-4c31-9144-5a991244216b
+2025-04-22 11:14:25,282 - INFO - 等待 10 秒后重试... (尝试 2/3)
+2025-04-22 11:14:35,751 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:14:36,796 - INFO - Space MFS export status: 
+2025-04-22 11:15:07,515 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/4a1facb8-d2fe-4b72-946f-dd37e9072355">here</a>.
+2025-04-22 11:15:08,124 - ERROR - 导出空间 My first space (MFS) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/4a1facb8-d2fe-4b72-946f-dd37e9072355
+2025-04-22 11:15:08,126 - INFO - 开始导出空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 11:15:08,468 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 11:15:09,464 - INFO - Space qDhZ1g1BdMnd export status: 
+2025-04-22 11:15:39,786 - INFO - Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/f03e4e2f-8b83-4b51-a69f-0298096e9332">here</a>.
+2025-04-22 11:15:40,481 - ERROR - 导出空间 测试空间 (qDhZ1g1BdMnd) 失败: 403 Client Error: Forbidden for url: https://yongqiangsun.atlassian.net/wiki/download/temp/filestore/f03e4e2f-8b83-4b51-a69f-0298096e9332
+2025-04-22 11:15:40,482 - INFO - 等待 5 秒后重试... (尝试 1/3)
+2025-04-22 11:15:42,782 - INFO - 用户中断，退出程序
+2025-04-22 11:15:44,606 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:15:45,292 - INFO - 找到 3 个空间
+2025-04-22 11:15:45,292 - INFO - 将导出 2/3 个空间
+2025-04-22 11:15:45,293 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 11:15:45,666 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:15:47,120 - INFO - Space MFS export status: 
+2025-04-22 11:16:17,473 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/1d1ae06e-caac-40b1-9cc4-9f0355ee8265">here</a>.
+2025-04-22 11:16:18,157 - INFO - 成功导出空间: My first space (MFS) 到 confluence_export/MFS_My first space.html.zip
+2025-04-22 11:16:18,158 - INFO - 开始导出空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 11:16:18,522 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 11:16:19,569 - INFO - Space qDhZ1g1BdMnd export status: 
+2025-04-22 11:16:49,906 - INFO - Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/ed8abe78-554d-4967-baa1-729085af41b0">here</a>.
+2025-04-22 11:16:50,476 - INFO - 成功导出空间: 测试空间 (qDhZ1g1BdMnd) 到 confluence_export/qDhZ1g1BdMnd_测试空间.html.zip
+2025-04-22 11:16:50,478 - INFO - 导出完成! 成功: 2, 失败: 0
+2025-04-22 11:20:39,302 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:20:39,959 - INFO - 找到 3 个空间
+2025-04-22 11:20:39,959 - INFO - 将导出 2/3 个空间
+2025-04-22 11:20:39,960 - ERROR - 程序执行时发生错误: ClientSession.__init__() got an unexpected keyword argument 'ssl'
+Traceback (most recent call last):
+  File "/Users/sunyongqiang/OceanSystem/Applets/Test/ConfluenceExporter/export_confluence_html_async.py", line 417, in main
+    return asyncio.run(main_async())
+  File "/Users/zhangyuxin/anaconda3/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/Users/zhangyuxin/anaconda3/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/Users/sunyongqiang/OceanSystem/Applets/Test/ConfluenceExporter/export_confluence_html_async.py", line 402, in main_async
+    successful, failed = await exporter.export_all_spaces(
+  File "/Users/sunyongqiang/OceanSystem/Applets/Test/ConfluenceExporter/export_confluence_html_async.py", line 270, in export_all_spaces
+    async with aiohttp.ClientSession(auth=aiohttp.BasicAuth(self.username, self.api_token),
+TypeError: ClientSession.__init__() got an unexpected keyword argument 'ssl'
+2025-04-22 11:21:33,134 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:21:33,743 - INFO - 找到 3 个空间
+2025-04-22 11:21:33,743 - INFO - 将导出 2/3 个空间
+2025-04-22 11:21:33,744 - ERROR - 程序执行时发生错误: ClientSession.__init__() got an unexpected keyword argument 'ssl'
+Traceback (most recent call last):
+  File "/Users/sunyongqiang/OceanSystem/Applets/Test/ConfluenceExporter/export_confluence_html_async.py", line 417, in main
+    return asyncio.run(main_async())
+  File "/Users/zhangyuxin/anaconda3/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/Users/zhangyuxin/anaconda3/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/Users/sunyongqiang/OceanSystem/Applets/Test/ConfluenceExporter/export_confluence_html_async.py", line 402, in main_async
+    successful, failed = await exporter.export_all_spaces(
+  File "/Users/sunyongqiang/OceanSystem/Applets/Test/ConfluenceExporter/export_confluence_html_async.py", line 270, in export_all_spaces
+    async with aiohttp.ClientSession(auth=aiohttp.BasicAuth(self.username, self.api_token),
+TypeError: ClientSession.__init__() got an unexpected keyword argument 'ssl'
+2025-04-22 11:21:53,220 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:21:53,854 - INFO - 找到 3 个空间
+2025-04-22 11:21:53,854 - INFO - 将导出 2/3 个空间
+2025-04-22 11:21:53,891 - INFO - 从缓存中获取空间: My first space (MFS)
+2025-04-22 11:21:53,891 - INFO - 从缓存中获取空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 11:21:53,891 - INFO - 导出完成! 成功: 2, 失败: 0
+2025-04-22 11:22:05,591 - INFO - 将导出所有空间 (个人空间: 排除, 归档空间: 排除)
+2025-04-22 11:22:06,252 - INFO - 找到 3 个空间
+2025-04-22 11:22:06,252 - INFO - 将导出 2/3 个空间
+2025-04-22 11:22:06,272 - INFO - 开始导出空间: My first space (MFS)
+2025-04-22 11:22:06,623 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: MFS
+2025-04-22 11:22:07,990 - INFO - Space MFS export status: 
+2025-04-22 11:22:38,343 - INFO - Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/46c353e6-cebd-4862-97ee-2634c4b2612c">here</a>.
+2025-04-22 11:22:38,346 - INFO - 开始导出空间: 测试空间 (qDhZ1g1BdMnd)
+2025-04-22 11:22:38,793 - INFO - Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd
+2025-04-22 11:22:39,797 - INFO - Space qDhZ1g1BdMnd export status: 
+2025-04-22 11:23:10,195 - INFO - Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/6e7267f9-220f-4a01-a99e-cd4bd875f5c3">here</a>.
+2025-04-22 11:23:11,527 - INFO - 成功导出空间: My first space (MFS) 到 confluence_export/MFS_My first space.html.zip
+2025-04-22 11:23:11,910 - INFO - 成功导出空间: 测试空间 (qDhZ1g1BdMnd) 到 confluence_export/qDhZ1g1BdMnd_测试空间.html.zip
+2025-04-22 11:23:11,912 - INFO - 导出完成! 成功: 2, 失败: 0
+[2025-04-22 11:46:07,125] [INFO] [将导出所有空间 (个人空间: 排除, 归档空间: 排除)]
+[2025-04-22 11:46:08,103] [INFO] [找到 3 个空间]
+[2025-04-22 11:46:08,103] [INFO] [将导出 2/3 个空间]
+[2025-04-22 11:46:08,129] [INFO] [开始导出空间: My first space (MFS)]
+[2025-04-22 11:46:08,519] [INFO] [Initiated experimental get_space_export method for export type: html from Confluence space: MFS]
+[2025-04-22 11:46:10,106] [INFO] [Space MFS export status: ]
+[2025-04-22 11:46:40,457] [INFO] [Space MFS export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/960adbe3-cf36-4dbf-9124-de31784f1f37">here</a>.]
+[2025-04-22 11:46:40,461] [INFO] [开始导出空间: 测试空间 (qDhZ1g1BdMnd)]
+[2025-04-22 11:46:40,952] [INFO] [Initiated experimental get_space_export method for export type: html from Confluence space: qDhZ1g1BdMnd]
+[2025-04-22 11:46:42,068] [INFO] [Space qDhZ1g1BdMnd export status: ]
+[2025-04-22 11:47:12,377] [INFO] [Space qDhZ1g1BdMnd export status: Export complete. Download <a class="space-export-download-path" href="/wiki/download/temp/filestore/7ba6265f-f9b6-43ed-b1a5-52f58f85d4e8">here</a>.]
+[2025-04-22 11:47:13,611] [INFO] [成功导出空间: My first space (MFS) 到 confluence_export/MFS_My first space.html.zip]
+[2025-04-22 11:47:14,167] [INFO] [成功导出空间: 测试空间 (qDhZ1g1BdMnd) 到 confluence_export/qDhZ1g1BdMnd_测试空间.html.zip]
+[2025-04-22 11:47:14,168] [INFO] [导出完成! 成功: 2, 失败: 0]

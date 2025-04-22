@@ -1,0 +1,5 @@
+atlassian-python-api>=3.36.0
+aiohttp>=3.8.0
+asyncio>=3.4.3
+tqdm>=4.64.0
+pathlib>=1.0.1 
