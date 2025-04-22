@@ -74,7 +74,7 @@ python export_confluence_html_async.py --config config_async.ini
 ### 导出指定空间
 
 ```bash
-python export_confluence_html_async.py --spaces SPACE1 SPACE2 SPACE3
+python export_confluence_html_async.py --spaces SPACE1 SPACE2 SPACE3    #（SPACE是空间的key）
 ```
 
 ### 调整并发数量

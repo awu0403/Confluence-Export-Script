@@ -57,7 +57,7 @@ class ConfluenceAsyncExporter:
         # 创建输出目录
         self.output_dir.mkdir(parents=True, exist_ok=True)
         
-        # 缓存文件
+        # 缓存文件，控制已导出的空间将不在重复进行导出
         self.cache_file = self.output_dir / 'export_cache.json'
         self.export_cache = self._load_cache()
         
@@ -146,7 +146,7 @@ class ConfluenceAsyncExporter:
                             
                             # 获取总大小
                             total_size = int(response.headers.get('content-length', 0))
-                            
+                            logger.info(f"导出空间 {space_name} ({space_key}) 总大小: {total_size/1024/1024} MB")
                             # 下载进度处理
                             downloaded = 0
                             with open(output_file, 'wb') as f:
@@ -236,7 +236,6 @@ class ConfluenceAsyncExporter:
         
         # 过滤空间
         spaces_to_export = []
-        
         if specific_spaces:
             # 只导出指定的空间
             specific_keys = set(specific_spaces)
@@ -287,15 +286,11 @@ class ConfluenceAsyncExporter:
                         failed_spaces.append(space_key)
                 except Exception as e:
                     logger.error(f"导出过程中发生异常: {str(e)}")
-                    # 无法确定哪个空间出错了
                 
-                # 更新进度条
                 progress_bar.update(1)
             
-            # 关闭进度条
             progress_bar.close()
             
-            # 报告结果
             logger.info(f"导出完成! 成功: {successful_exports}, 失败: {len(failed_spaces)}")
             if failed_spaces:
                 logger.error(f"导出失败的空间: {', '.join(failed_spaces)}")
@@ -376,10 +371,11 @@ async def main_async():
     include_archived = args.archived or config['DEFAULT'].getboolean('include_archived')
     
     # 检查必要参数
-    if confluence_url == 'https://your-instance.atlassian.net' or username == 'your-email@example.com' or api_token == 'your-api-token':
+    if not confluence_url or not username or not api_token:
         logger.error("请在配置文件或命令行中提供有效的Confluence URL、用户名和API令牌")
         return 1
     
+    start_time = time.time()
     # 创建导出器
     exporter = ConfluenceAsyncExporter(
         url=confluence_url,
@@ -400,7 +396,8 @@ async def main_async():
             include_personal=include_personal,
             include_archived=include_archived
         )
-    
+    end_time = time.time()
+    logger.info(f"导出完成! 用时: {end_time - start_time:.2f} 秒")
     return 0 if not failed else 1
 
 def main():
